@@ -80,7 +80,7 @@ export default function SplashScreen({ onComplete, name = "Kitten" }: SplashScre
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.4, type: "spring" }}
         >
-          After 5 wonderful months together, I made this to support you through your final medical exams
+          After 6 wonderful months together, I made this to support you through your final medical exams
         </motion.p>
         
         <div className="w-full h-2 bg-white/30 rounded-full overflow-hidden">
