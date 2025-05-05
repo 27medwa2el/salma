@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Salma\'s Medical Journey',
-  description: 'Celebrating my beautiful kitten\'s 5-month journey and supporting her through her final medical exams',
+  description: 'Celebrating my beautiful kitten\'s 6-month journey and supporting her through her final medical exams',
   manifest: '/manifest.json',
   themeColor: '#9333ea',
 };

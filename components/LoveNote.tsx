@@ -13,7 +13,7 @@ const LoveNote: React.FC<LoveNoteProps> = ({ recipientName }) => {
   const [currentNote, setCurrentNote] = useState(0);
   
   const loveNotes = [
-    `My beautiful kitten ${recipientName}, these past 5 months together have been amazing. I see how hard you've been working on your medical studies, and I'm so proud of you.`,
+    `My beautiful kitten ${recipientName}, these past 6 months together have been amazing. I see how hard you've been working on your medical studies, and I'm so proud of you.`,
     
     `4.5 years of medical school has been such a challenging journey, but you've never given up. Your dedication and perseverance are truly inspiring.`,
     

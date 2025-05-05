@@ -21,14 +21,14 @@ const photos = [
 
 // Encouraging messages for the final medical exam
 const encouragements = [
-  "You've conquered every medical exam so far, this one doesn't stand a chance",
+  "You've conquered every medical exam so far, this one the last term doesn't stand a chance",
   "My kitten has the most brilliant medical mind I've ever known",
   "4.5 years of hard work have prepared you perfectly for this final challenge",
   "I've seen how dedicated you are to medicine and helping others",
   "You're the most beautiful future doctor in the world",
   "Every night spent studying is about to pay off, kitten",
   "Your perseverance through medical school has been incredible",
-  "So proud of how you've fought through these challenging 4.5 years",
+  "You're El-Sayed El-Badawi, the most amazing doctor in the world",
   "You're right at the finish line of this medical journey",
   "No one deserves to be a doctor more than you"
 ];
@@ -236,7 +236,7 @@ export default function Home() {
             Salma's Medical Journey
           </h1>
           <p className="text-xl text-purple-600 max-w-2xl mx-auto">
-            Celebrating 5 months together & 4.5 years of your incredible medical school journey
+            Celebrating 6 months together & 4.5 years of your incredible medical school journey
           </p>
           <p className="mt-4 text-lg text-purple-500 max-w-xl mx-auto">
             You're almost there, kitten. This final exam doesn't stand a chance against you.
